@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++ and Database Fundementals**
 
-- 👨‍💻 I am the leader of the student clup ASELGET [ASELGET](https://www.linkedin.com/company/aselget/?viewAsMember=true)
+- 👨‍💻 I am the leader of the student club ASELGET [ASELGET](https://www.linkedin.com/company/aselget/?viewAsMember=true)
 
 - 📫 How to reach me [My Mail](hydrylmz7@gmail.com)
 
