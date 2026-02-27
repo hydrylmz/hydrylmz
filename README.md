@@ -3,7 +3,7 @@
 <h3 align="center">A game developer who has dedicated his life to coding.</h3>
 &nbsp;
 
-- 🌱 I’m currently learning **C++ and Database Fundementals**
+- 🌱 I’m currently learning **Rust and Engine Fundementals**
 
 - 👨‍💻 I am the leader of the student club ASELGET [ASELGET](https://www.linkedin.com/company/aselget/?viewAsMember=true)
 
