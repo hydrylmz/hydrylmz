@@ -15,6 +15,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://komarev.com/ghpvc/?username=hydrylmz&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=hydrylmz&icon=0&color=red)](https://visitcount.itsvg.in)
 
 <!--  -->
